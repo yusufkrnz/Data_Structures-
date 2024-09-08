@@ -3,9 +3,9 @@
 
     /*  NODE ların yapıları
      *
-     *                            -------> DATA
+     *                              ------> DATA
      * 2 temel parça dan oluşur ---|
-     *                            ------->pointer----(BAĞLANTI)
+     *                              ------>pointer----(BAĞLANTI)
      *                                 --BİR SONRAKİ NODE UN ADRSİNİ TUTAR---
      *  */
     int data;
