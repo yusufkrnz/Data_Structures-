@@ -4,7 +4,7 @@
     /*  NODE ların yapıları
      *
      *                            -------> DATA
-     * 2 teml parça dan oluşur ---|
+     * 2 temel parça dan oluşur ---|
      *                            ------->pointer----(BAĞLANTI)
      *                                 --BİR SONRAKİ NODE UN ADRSİNİ TUTAR---
      *  */
